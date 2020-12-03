@@ -99,6 +99,7 @@
 		A25959C41EEB84AE00C239F1 /* CameraDemo */ = {
 			isa = PBXGroup;
 			children = (
+				AA7FD0D325792B7E00854CD6 /* oneFileAdd */,
 				A2A81A8D1EEB9365007C020A /* Resource */,
 				A2A81A821EEB8E50007C020A /* Category */,
 				A25959DD1EEB88AE00C239F1 /* Controllers */,
@@ -177,6 +178,13 @@
 			path = Resource;
 			sourceTree = "<group>";
 		};
+		AA7FD0D325792B7E00854CD6 /* oneFileAdd */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = oneFileAdd;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -218,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
